@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Angel builds products for iOS devices from design to development and occasionally does some backend work. He can basically prototype your app. Currently <span class="green-color">accepting new freelancing projects</span> in New York and Miami.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find some of his recent code at [github.com/angelcasado](https://github.com/angelcasado)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+To get in touch you can email [hello@angelcasado.net](mailto:hello@angelcasado.net) or follow [@angelcasado](https://twitter.com/angelcasado)

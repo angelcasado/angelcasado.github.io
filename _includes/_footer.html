@@ -2,10 +2,19 @@
 
   <div class="wrap">
 
-    <div class="footer">
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-1 column">
+      <ul>
+        <li>{{ site.title }}</li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col-2 column">
       <ul>
         <li>
-          <a href="https://github.com/{{ site.github }}">
+          <a href="https://github.com/{{ site.username }}">
             <span class="icon github">
               <svg version="1.1" class="github-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -20,11 +29,11 @@
                 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/>
               </svg>
             </span>
-            <span class="username"></span>
+            <span class="username">{{ site.username }}</span>
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/{{ site.twitter }}">
+          <a href="https://twitter.com/{{ site.username }}">
             <span class="icon twitter">
               <svg version="1.1" class="twitter-icon-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
@@ -37,13 +46,13 @@
                 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/>
               </svg>
             </span>
-            <span class="username"></span>
+            <span class="username">{{ site.username }}</span>
           </a>
         </li>
         <li>
-          <a href="https://instagram.com/{{ site.instagram }}">
+          <a href="https://instagram.com/{{ site.username }}">
             <span class="icon instagram">
-              <svg version="1.1" class="instagram-icon-svg" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+              <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                  width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">
               <path fill="#FFFFFF" d="M15.277,0H0.722C0.324,0,0,0.323,0,0.721v14.558C0,15.676,0.324,16,0.722,16h14.555C15.676,16,16,15.676,16,15.279V0.721
                 C16,0.323,15.676,0,15.277,0z M8,5.208c1.542,0,2.792,1.25,2.792,2.792S9.542,10.792,8,10.792S5.208,9.542,5.208,8
@@ -51,13 +60,16 @@
                 c2.643,0,4.792-2.149,4.792-4.792c0-0.343-0.04-0.677-0.108-1H14V14z M14,5h-3V2h3V5z"/>
               </svg>
             </span>
-            <span class="username"></span>
+            <span class="username">{{ site.username }}</span>
           </a>
         </li>
       </ul>
     </div>
+
+    <div class="footer-col-3 column">
+      <p class="text">{{ site.description }}</p>
+    </div>
+
   </div>
-
-
 
 </footer>
