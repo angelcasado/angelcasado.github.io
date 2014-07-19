@@ -394,21 +394,22 @@ a:visited { color: #96281B; }
     position: fixed;
     z-index: 10;
     top: 14px; right: 8px;
-    background-color: white;
+    background-color: #0e0e0e;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    border: 1px solid #e8e8e8;
+    border: none;
   }
 
   .site-nav .menu-icon {
     display: block;
     font-size: 24px;
-    color: #505050;
+    color: #FFFFFF;
     float: right;
     width: 36px;
     text-align: center;
     line-height: 36px;
+    border: none;
   }
 
   .site-nav .menu-icon svg { width: 18px; height: 16px; }
@@ -426,6 +427,7 @@ a:visited { color: #96281B; }
     text-align: right;
     line-height: 1.25;
     padding: 5px 10px;
+    border: none;
     margin: 0;
   }
 

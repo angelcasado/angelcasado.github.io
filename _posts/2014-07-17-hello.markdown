@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Hello"
+date:   2014-07-17 22:55:19
+categories: news update
+---
+
+Hello everyone and welcome to my entirely new site. It's hosted on Github pages using Jekyll. This was actually surprisingly easy to setup, had I known how simple it was I wouldn't have put it off so much. I'm even able to post code snippets cleanly which I'm excited about.
+
+Here is an example in Rust:
+
+{% highlight rust %}
+fn main() {
+    println!("Hello, world!")
+}
+#=> prints "Hello World"
+{% endhighlight %}
+
+Anywho, this is my spot on the internet and I'll be posting here. Feel free to follow me on Twitter [@angelcasado](https://twitter.com/angelcasado).
