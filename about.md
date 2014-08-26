@@ -9,3 +9,12 @@ I'm a iOS and Python software developer. Currently <span class="green-color">acc
 You can find some of my recent code at [github.com/angelcasado](https://github.com/angelcasado)
 
 To get in touch you can email [hello@angelcasado.net](mailto:hello@angelcasado.net) or follow [@angelcasado](https://twitter.com/angelcasado)
+
+## Recommended Reads
+
+## Programming Reads
+
+## Great TV
+
+## Awesome Sites
+
