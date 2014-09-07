@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a iOS and Python software developer. Currently <span class="green-color">accepting new freelancing projects</span> in New York and Miami.
+I'm a software engineer with a wide range of skills and languages. Currently <span class="green-color">accepting new freelancing projects</span> in New York and Miami.
 
 You can find some of my recent code at [github.com/angelcasado](https://github.com/angelcasado)
 
