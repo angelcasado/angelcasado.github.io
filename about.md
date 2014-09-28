@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I'm a software engineer with a wide range of skills and languages. Currently <span class="green-color">accepting new freelancing projects</span> in New York and Miami.
+I'm a software developer from Miami and I can build your app. I'm also a huge fan of basketball, NBA, Apple, UNIX, cooking, and keeping things simple.
 
-You can find some of my recent code at [github.com/angelcasado](https://github.com/angelcasado)
+<span class="green-color">Currently accepting new iOS (Objective-C & Swift) and backend development projects</span>.
 
-To get in touch you can email [hello@angelcasado.net](mailto:hello@angelcasado.net) or follow [@angelcasado](https://twitter.com/angelcasado)
+Talk to me at [hello@angelcasado.net](mailto:hello@angelcasado.net)
+
+You can also find me at [Twitter](https://twitter.com/angelcasado) and [Github](https://github.com/angelcasado)
