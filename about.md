@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm a software developer from Miami and I can build your app. I'm also a huge fan of basketball, NBA, Apple, UNIX, cooking, and keeping things simple.
+I'm a software developer from Miami. I usually build iOS and Python apps but can adapt to other languages and environments. Every once in a while I take to the design side of things. I'm also a huge fan of basketball, unix, cooking, and keeping things simple.
 
-<span class="green-color">Currently accepting new iOS (Objective-C & Swift) and backend development projects</span>.
+<span class="green-color">Currently accepting new projects.</span>
 
 Talk to me at [hello@angelcasado.net](mailto:hello@angelcasado.net)
 
