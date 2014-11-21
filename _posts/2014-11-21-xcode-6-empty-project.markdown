@@ -21,15 +21,15 @@ Now look for `Info.plist` and look for the key `Main storyboard file base name`.
 
 Now to make it all work we'll be adding some code you're probably already familiar with. Locate `AppDelegate.swift` (`AppDelegate.m`) and add the following code:
 
-{% highlight swift %}
+{% highlight swift linenos %}
 func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
+    self.window = UIWindow(frame: UIScreen.mainScreen().bounds)
 
-        // do your thing
+    // do your thing
 
-        self.window?.backgroundColor = UIColor.whiteColor()
-        self.window?.makeKeyAndVisible()
-        return true
+    self.window?.backgroundColor = UIColor.whiteColor()
+    self.window?.makeKeyAndVisible()
+    return true
 }
 {% endhighlight %}
 
