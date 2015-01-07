@@ -11,7 +11,7 @@ Start off by launching Xcode 6 and select "Single View Application" then hit nex
 
 ![Single View Application]({{ site.url }}/assets/posts/2014-11-21-xcode-6-empty-project-0.png)
 
-Find `Main.storyboard`, right-click it, delete and press the "Move to Trash" option. If there was a fire pit icon in my dock bar I would throw it in there, but I digress.
+Find `Main.storyboard`, right-click it, delete and press the "Move to Trash" option.
 
 ![Delete Main.storyboard]({{ site.url }}/assets/posts/2014-11-21-xcode-6-empty-project-1.png)
 
