@@ -5,7 +5,7 @@ date:   2014-11-21 17:35:00
 categories: news update xcode ios
 ---
 
-Every major release Apple likes to take away and/or impose something new on us. This time they have taken the empty project template. They seem to be pushing storyboards a little harder on us. No worries, we'll get this gross abomination sorted out in a minute or two.
+Every major release of Xcode or iOS Apple may take something away. This time they have taken the empty project template away. They seem to be pushing storyboards a little harder on us. No worries, if you use nibs like I do then we'll have to set up our own empty project.
 
 Start off by launching Xcode 6 and select "Single View Application" then hit next and fill in your details.
 
