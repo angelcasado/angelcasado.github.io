@@ -15,10 +15,6 @@ Obviously such a young language is not very optimized and bugs do happen. Xcode 
 
 Swift has improved and its most improved form came with the 1.2 packaged with Xcode 6.3. This release was a major gain in productivity and features. Compile time isn't as fast as Objective-C and autocomplete is a bit slow but none of the problems above apply anymore.
 
-## Production ready?
-
-What about in production? When the language came out my bosses asked me if we could rewrite a failing app in Swift. I told him and her: "Yes". A client once asked me if Swift was ready and I said: "Yes". You probably think I'm crazy or a masochist but I knew this language was the way forward. I trusted that Apple wouldn't give me something broken and unusable. There was no way Apple could turn its back on a language that was being developed for four years. What amazed me more was that I was being asked to use it in production and that non-technical people were asking me about it.
-
 ## A Brave New World
 
 Over the past five years languages like Go, Rust, and Swift have been created and released to solve every programmers’ problem. Complexity. As time goes on we find ourselves in bigger teams, developing more in smaller time frames. These languages were created out of necessity. A lot of these new languages are being built to scale with products and their teams. Why write it in C++ if you can write it faster in Go or Rust and probably get improved performance? The tech world and their requirements are changing fast, and you'll need a language that can scale with it.
