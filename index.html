@@ -1,20 +1,19 @@
----
-layout: default
----
-
-<div class="home">
-
-  <h1>Posts</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<html>
+  <head>
+    <title>Angel Casado</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+  </head>
+  <body>
+    <h1>Hi, I'm Angel.</h1>
+    <div id="main">
+      <p>I make software in New York.</p>
+      <ul>
+        <li><a href="https://github.com/angelcasado">Github</a></li>
+        <li><a href="https://twitter.com/angelcasado">Twitter</a></li>
+        <li><a href="mailto:angel@nocturne.digital">angel@nocturne.digital</a></li>
+      </ul>
+      <img src="assets/peace.png" width="30" height="30">
+    </div>
+  </body>
+</html>
